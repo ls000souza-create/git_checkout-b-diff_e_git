@@ -1,0 +1,49 @@
+diif e um comoando que mostra a difenrença esata de dois arquivo de texto ele mostra Linhas que foram adicionadas
+
+Linhas que foram removidas
+
+Linhas que foram alteradas
+
+
+Git é um sistema de controle de versão distribuído, usado para acompanhar mudanças em arquivos (principalmente código-fonte) ao longo do tempo. Ele permite que você volte a versões anteriores, veja quem mudou o quê e trabalhe em equipe sem sobrescrever o trabalho dos outros.
+
+Conceito de repositório local no Git
+
+Um repositório local é o repositório que fica no seu próprio computador.
+
+Quando você inicializa um projeto com Git (ou clona um projeto), o Git cria uma pasta oculta chamada .git, que contém:
+
+o histórico de versões (commits)
+
+as branches
+
+as configurações do projeto
+
+os estados dos arquivos
+
+
+Repositório local (Git)
+É um conceito/estrutura de versionamento
+
+Guarda arquivos + histórico completo
+
+Salva mudanças em commits
+
+Permite voltar no tempo
+
+Funciona offline
+
+Usa vários comandos (add, commit, diff, etc.
+
+diff
+É um comando/ferramenta de comparação
+
+Compara dois arquivos ou duas versões
+
+Mostra o que mudou
+
+Não salva histórico
+
+Não versiona nada
+
+o diff e usada antes de commitar para cpnferir o que foi alterado evitar commits errados e garantir que apenas o codigo sera commitado
