@@ -1,0 +1,11 @@
+
+quando usaar
+backut para guada ne proteje o seu aquivi perdido
+portfolio
+mostra seus progetos para recrututadore
+demostra organização e evolução e boas pretica
+
+github
+e uma platafotma onlime 
+ja o git ele e una ferramenra               
+controla versao do codigo
